@@ -1,4 +1,4 @@
-# Airbnb_Rating_Prediction
+# Airbnb Rating Prediction using NLTK
 Predicting ratings for Airbnb for Dublin, Leinster, Ireland (NLP)
 
 Dataset : https://drive.google.com/drive/folders/1AhBIcV0kkkyUcV9Uvr9wJlW_AQMK9EEZ
